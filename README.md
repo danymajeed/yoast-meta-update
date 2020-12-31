@@ -1,1 +1,1 @@
-# yoastMetaUpdate
+update yoast plugin meta through Custom WC Rest Endpoint
